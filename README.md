@@ -2,7 +2,7 @@
 Application for electronic voting.
 
 Written in Java, UI made in JavaFX, built in Maven.
-Data stored localy using SQLite.
+Data stored locally using SQLite.
 
 ### Sign in screen
 ![Sign in screen](electronic-voting_sign_in_screen.png)
